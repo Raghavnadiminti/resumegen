@@ -6,12 +6,12 @@ In today's competitive job market, having a standout resume is essential. Howeve
 
   used reactjs framework to acheive this
 
-       effectively used states
+  effectively used states
 
-       effectively used react-router-dom
+  effectively used react-router-dom
 
-      effectively used jspdf
+  effectively used jspdf
 
-      learnt about context api
+  learnt about context api
 
-      learnt about Axios library
+  learnt about Axios library
